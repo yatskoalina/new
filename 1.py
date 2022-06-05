@@ -1,2 +1,1 @@
-hello
-привет
+print ("hello")
